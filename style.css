@@ -56,7 +56,7 @@ p {
 
 .hero {
   background-color: #444;
-  background-image: url(BTRF2681.jpeg);
+  background-image: url(/BTRF2681.jpeg);
   background-blend-mode: multiply;
   background-size: cover;
   height: 100vh;
@@ -89,7 +89,7 @@ p {
 
 .cta {
   background-color: #444;
-  background-image: url(BTRF2681.jpeg);
+  background-image: url(/BTRF2681.jpeg);
   background-blend-mode: multiply;
   background-size: cover;
   padding: 10vh 0;
